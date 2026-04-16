@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Yuvraj2916<br>👀 I’m interested in coding and some cool projects using python<br>🌱 I’m currently learning c/c++ and aiml<br>💞️ I’m looking to collaborate on github to meet some experienced persons around me to teach me how to boom. With help, of skills .<br>📫 How to reach me you can email me anytime 24/7 available at saxenayuvraj475@gmail.com<br>😄 Pronouns: He<br>⚡ Fun fact: I love to socalize with people's
+👋 Hi, I’m @Yuvraj2916<br>👀 I’m interested in coding and some cool projects using python<br>🌱 I’m currently learning c/c++ and Ai&Ml<br>💞️ I’m looking to collaborate on github to meet some experienced persons around me to teach me how to boom. With help, of skills .<br>📫 How to reach me you can email me anytime 24/7 available at saxenayuvraj475@gmail.com<br>😄 Pronouns: He<br>⚡ Fun fact: I love to socalize with people's
 
 
 ## 🌐 Socials:
