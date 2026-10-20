@@ -1,18 +1,112 @@
-# 💫 About Me:
-👋 Hi, I’m @Yuvraj2916<br>👀 I’m interested in coding and some cool projects using python<br>🌱 I’m currently learning c/c++ and Ai&Ml<br>💞️ I’m looking to collaborate on github to meet some experienced persons around me to teach me how to boom. With help, of skills .<br>📫 How to reach me you can email me anytime 24/7 available at saxenayuvraj475@gmail.com<br>😄 Pronouns: He<br>⚡ Fun fact: I love to socalize with people's
+<!-- ===== HEADER BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58a6ff&height=200&section=header&text=&fontSize=0" alt="Banner" width="100%" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Yuvraj</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-saxena-b61304328?utm_source=share_via&utm_content=profile&utm_medium=member_ios ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saxenayuvraj475@gmail.com) 
+<h3 align="center">Python Developer · AI/ML Enthusiast</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Just+Code+It;Building+cool+projects+with+Python;Learning+C%2FC%2B%2B+%26+AI%2FML" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <i>Building cool projects, solving problems, and growing one commit at a time.</i>
+</p>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
 
-<!---
-Yuvraj2916/Yuvraj2916 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**Yuvraj** here — a developer who loves coding and building cool projects with **Python**.
+
+I'm currently learning **C/C++** and **AI & ML**, and sharpening my problem-solving skills by practicing on **LeetCode** and **HackerRank**.
+
+I've built projects like an **AI-powered mock interview platform** and an **expense tracker** that got nominated for *Best Unique Idea* at a hackathon.
+
+I'm looking to collaborate on GitHub and connect with experienced developers who can help me grow. I also love socializing and meeting new people. 😄
+
+📫 **Reach me anytime:** saxenayuvraj475@gmail.com
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://avatars.githubusercontent.com/u/182012014?v=4" alt="Yuvraj" width="220" style="border-radius:12px;" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://github.com/Yuvraj2916">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/yuvraj-saxena-b61304328">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saxenayuvraj475@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,js,css" alt="HTML, JavaScript, CSS" />
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql,c,cpp" alt="Python, SQL, C, C++" />
+</p>
+
+<p align="center"><b>Frameworks</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flask,fastapi" alt="React, Flask, FastAPI" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Yuvraj2916/Mockinterview-Ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj2916&repo=Mockinterview-Ai&theme=github_dark&bg_color=161B22&border_color=58A6FF&border_radius=10" alt="Mockinterview-Ai" />
+  </a>
+  <a href="https://github.com/Yuvraj2916/Expense-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj2916&repo=Expense-Tracker&theme=github_dark&bg_color=161B22&border_color=58A6FF&border_radius=10" alt="Expense-Tracker" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Yuvraj2916/Hackerrank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj2916&repo=Hackerrank&theme=github_dark&bg_color=161B22&border_color=58A6FF&border_radius=10" alt="Hackerrank" />
+  </a>
+  <a href="https://github.com/Yuvraj2916/LeetCode-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj2916&repo=LeetCode-&theme=github_dark&bg_color=161B22&border_color=58A6FF&border_radius=10" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Yuvraj2916&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj2916&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj2916&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
+</p>
