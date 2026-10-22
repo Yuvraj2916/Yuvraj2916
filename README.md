@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me :
+## 🚀 About Me
 
 <table>
 <tr>
@@ -44,7 +44,7 @@ I'm looking to collaborate on GitHub and connect with experienced developers who
 
 ---
 
-## 🤝 Connect :
+## 🤝 Connect
 
 <p align="center">
   <a href="https://github.com/Yuvraj2916">
@@ -60,7 +60,7 @@ I'm looking to collaborate on GitHub and connect with experienced developers who
 
 ---
 
-## 💻 Tech Stack :
+## 💻 Tech Stack
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
@@ -79,7 +79,7 @@ I'm looking to collaborate on GitHub and connect with experienced developers who
 
 ---
 
-## 📌 Featured Projects :
+## 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Yuvraj2916/Mockinterview-Ai">
@@ -100,7 +100,7 @@ I'm looking to collaborate on GitHub and connect with experienced developers who
 
 ---
 
-## 📊 GitHub Stats :
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Yuvraj2916&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
